@@ -5,7 +5,7 @@
 #       @hiddenillusion
 # Date: 2015-12-23
 # (while at FireEye)
-# Tested om v2.5
+# Tested on v2.5
 # written based on https://github.com/volatilityfoundation/volatility/blob/master/volatility/plugins/registry/shutdown.py
 
 """
